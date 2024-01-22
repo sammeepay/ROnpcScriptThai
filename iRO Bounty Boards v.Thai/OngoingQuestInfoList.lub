@@ -1,0 +1,1318 @@
+QuestInfoList = {
+	[62556] = {
+		Title = "Bounty Board Goat",
+		Description = {
+			"ล่ามอนสเตอร์ Goat 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno Tool Shop"
+		},
+		Summary = ""
+	},
+	[62557] = {
+		Title = "Bounty Board Harpy",
+		Description = {
+			"ล่ามอนสเตอร์ Harpy 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno Tool Shop"
+		},
+		Summary = ""
+	},
+	[62558] = {
+		Title = "Bounty Board Sleeper",
+		Description = {
+			"ล่ามอนสเตอร์ Sleeper 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno Tool Shop"
+		},
+		Summary = ""
+	},
+	[62559] = {
+		Title = "Bounty Board Grand Peco",
+		Description = {
+			"ล่ามอนสเตอร์ Grand Peco 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno Tool Shop"
+		},
+		Summary = ""
+	},
+	[62560] = {
+		Title = "Bounty Board Skeleton",
+		Description = {
+			"ล่ามอนสเตอร์ Skeleton 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62561] = {
+		Title = "Bounty Board Soldier Skeleton",
+		Description = {
+			"ล่ามอนสเตอร์ Soldier Skeleton 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62562] = {
+		Title = "Bounty Board Archer Skeleton",
+		Description = {
+			"ล่ามอนสเตอร์ Archer Skeleton 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62563] = {
+		Title = "Bounty Board Munak",
+		Description = {
+			"ล่ามอนสเตอร์ Munak 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62564] = {
+		Title = "Bounty Board Bongun",
+		Description = {
+			"ล่ามอนสเตอร์ Bongun 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62565] = {
+		Title = "Bounty Board Spore",
+		Description = {
+			"ล่ามอนสเตอร์ Spore 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62566] = {
+		Title = "Bounty Board Snake",
+		Description = {
+			"ล่ามอนสเตอร์ Snake 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62567] = {
+		Title = "Bounty Board Bigfoot",
+		Description = {
+			"ล่ามอนสเตอร์ Bigfoot 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62568] = {
+		Title = "Bounty Board Elder Willow",
+		Description = {
+			"ล่ามอนสเตอร์ Elder Willow 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62569] = {
+		Title = "Bounty Board Greatest General",
+		Description = {
+			"ล่ามอนสเตอร์ Elder Greatest General 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Archer Village"
+		},
+		Summary = ""
+	},
+	[62599] = {
+		Title = "Bounty Board Cornus",
+		Description = {
+			"ล่ามอนสเตอร์ Cornus 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62600] = {
+		Title = "Bounty Board Naga",
+		Description = {
+			"ล่ามอนสเตอร์ Naga 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62601] = {
+		Title = "Bounty Board Pinguicula",
+		Description = {
+			"ล่ามอนสเตอร์ Pinguicula 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62602] = {
+		Title = "Bounty Board Luciola Vespa",
+		Description = {
+			"ล่ามอนสเตอร์ Luciola Vespa 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62603] = {
+		Title = "Bounty Board Curupira",
+		Description = {
+			"ล่ามอนสเตอร์ Curupira 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62604] = {
+		Title = "Bounty Board Headless Mule",
+		Description = {
+			"ล่ามอนสเตอร์ Headless Mule 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62605] = {
+		Title = "Bounty Board Jaguar",
+		Description = {
+			"ล่ามอนสเตอร์ Jaguar 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62606] = {
+		Title = "Bounty Board Toucan",
+		Description = {
+			"ล่ามอนสเตอร์ Toucan 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62607] = {
+		Title = "Bounty Board Piranha",
+		Description = {
+			"ล่ามอนสเตอร์ Piranha 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62608] = {
+		Title = "Bounty Board Iara",
+		Description = {
+			"ล่ามอนสเตอร์ Iara 150 ตัวแล้วกลับไปที่ Bounty Board ที่ศูนย์กลางของ Brasilis"
+		},
+		Summary = ""
+	},
+	[62609] = {
+		Title = "Bounty Board Wild Rose",
+		Description = {
+			"ล่ามอนสเตอร์ Wild Rose 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Umbala"
+		},
+		Summary = ""
+	},
+	[62610] = {
+		Title = "Bounty Board Dryad",
+		Description = {
+			"ล่ามอนสเตอร์ Dryad 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Umbala"
+		},
+		Summary = ""
+	},
+	[62611] = {
+		Title = "Bounty Board Wootan Fighter",
+		Description = {
+			"ล่ามอนสเตอร์ Wootan Fighter 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Umbala"
+		},
+		Summary = ""
+	},
+	[62612] = {
+		Title = "Bounty Board Parasite",
+		Description = {
+			"ล่ามอนสเตอร์ Parasite 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Umbala"
+		},
+		Summary = ""
+	},
+	[62613] = {
+		Title = "Bounty Board Centipede",
+		Description = {
+			"ล่ามอนสเตอร์ Centipede 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62614] = {
+		Title = "Bounty Board Centipede Larva",
+		Description = {
+			"ล่ามอนสเตอร์ Centipede Larva 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62615] = {
+		Title = "Bounty Board Tatacho",
+		Description = {
+			"ล่ามอนสเตอร์ Tatacho 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62616] = {
+		Title = "Bounty Board Dolomedes",
+		Description = {
+			"ล่ามอนสเตอร์ Dolomedes 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62617] = {
+		Title = "Bounty Board Thara Frog",
+		Description = {
+			"ล่ามอนสเตอร์ Thara Frog 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62618] = {
+		Title = "Bounty Board Sea Otter",
+		Description = {
+			"ล่ามอนสเตอร์ Sea Otter 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62619] = {
+		Title = "Bounty Board Seal",
+		Description = {
+			"ล่ามอนสเตอร์ Seal 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62620] = {
+		Title = "Bounty Board Raggler",
+		Description = {
+			"ล่ามอนสเตอร์ Raggler 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62621] = {
+		Title = "Bounty Board Grove",
+		Description = {
+			"ล่ามอนสเตอร์ Grove 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62622] = {
+		Title = "Bounty Board Alligator",
+		Description = {
+			"ล่ามอนสเตอร์ Alligator 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62623] = {
+		Title = "Bounty Board Golem",
+		Description = {
+			"ล่ามอนสเตอร์ Golem 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62624] = {
+		Title = "Bounty Board Stalactic Golem",
+		Description = {
+			"ล่ามอนสเตอร์ Stalactic Golem 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62625] = {
+		Title = "Bounty Board Medusa",
+		Description = {
+			"ล่ามอนสเตอร์ Medusa 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62644] = {
+		Title = "Bounty Board Willow",
+		Description = {
+			"ล่ามอนสเตอร์  Willow 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62645] = {
+		Title = "Bounty Board Wolf",
+		Description = {
+			"ล่ามอนสเตอร์ Wolf 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62646] = {
+		Title = "Bounty Board Munak",
+		Description = {
+			"ล่ามอนสเตอร์ Munak 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62647] = {
+		Title = "Bounty Board Bongun",
+		Description = {
+			"ล่ามอนสเตอร์ Bongun 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62648] = {
+		Title = "Bounty Board Sohee",
+		Description = {
+			"ล่ามอนสเตอร์ Sohee 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62649] = {
+		Title = "Bounty Board Dokebi",
+		Description = {
+			"ล่ามอนสเตอร์ Dokebi 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62650] = {
+		Title = "Bounty Board Nine Tail",
+		Description = {
+			"ล่ามอนสเตอร์ Nine Tail 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62660] = {
+		Title = "Bounty Board Chonchon",
+		Description = {
+			"ล่ามอนสเตอร์ Chonchon 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62661] = {
+		Title = "Bounty Board Roda Frog",
+		Description = {
+			"ล่ามอนสเตอร์ Roda Frog 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62662] = {
+		Title = "Bounty Board Mandragora",
+		Description = {
+			"ล่ามอนสเตอร์ Mandragora 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62663] = {
+		Title = "Bounty Board Ambernite",
+		Description = {
+			"ล่ามอนสเตอร์ Ambernite 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62664] = {
+		Title = "Bounty Board Creamy",
+		Description = {
+			"ล่ามอนสเตอร์ Creamy 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62665] = {
+		Title = "Bounty Board Caramel",
+		Description = {
+			"ล่ามอนสเตอร์ Caramel 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62666] = {
+		Title = "Bounty Board Horn",
+		Description = {
+			"ล่ามอนสเตอร์ Horn 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62667] = {
+		Title = "Bounty Board Poison Spore",
+		Description = {
+			"ล่ามอนสเตอร์ Poison Spore 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62668] = {
+		Title = "Bounty Board Orc Warrior",
+		Description = {
+			"ล่ามอนสเตอร์ Orc Warrior 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62669] = {
+		Title = "Bounty Board Orc Lady",
+		Description = {
+			"ล่ามอนสเตอร์ Orc Lady 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62670] = {
+		Title = "Bounty Board Knife Goblin",
+		Description = {
+			"ล่ามอนสเตอร์ Knife Goblin 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62671] = {
+		Title = "Bounty Board Goblin Archer",
+		Description = {
+			"ล่ามอนสเตอร์ Goblin Archer 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62672] = {
+		Title = "Bounty Board Ghoul",
+		Description = {
+			"ล่ามอนสเตอร์ Ghoul 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62673] = {
+		Title = "Bounty Board Jakk",
+		Description = {
+			"ล่ามอนสเตอร์ Jakk 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62674] = {
+		Title = "Bounty Board Nightmare",
+		Description = {
+			"ล่ามอนสเตอร์ Nightmare 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62675] = {
+		Title = "Bounty Board Deviruchi",
+		Description = {
+			"ล่ามอนสเตอร์ Deviruchi 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62676] = {
+		Title = "Bounty Board Marionette",
+		Description = {
+			"ล่ามอนสเตอร์ Marionette 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62677] = {
+		Title = "Bounty Board Wraith",
+		Description = {
+			"ล่ามอนสเตอร์ Wraith 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62678] = {
+		Title = "Bounty Board Dark Priest",
+		Description = {
+			"ล่ามอนสเตอร์ Dark Priest 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62679] = {
+		Title = "Bounty Board Gargoyle",
+		Description = {
+			"ล่ามอนสเตอร์ Gargoyle 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62680] = {
+		Title = "Bounty Board Flying Petite",
+		Description = {
+			"ล่ามอนสเตอร์ Flying Petite 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62681] = {
+		Title = "Bounty Board Ground Petite",
+		Description = {
+			"ล่ามอนสเตอร์ Ground Petite 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62682] = {
+		Title = "Bounty Board Evil Druid",
+		Description = {
+			"ล่ามอนสเตอร์ Evil Druid 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62683] = {
+		Title = "Bounty Board Wind Ghost",
+		Description = {
+			"ล่ามอนสเตอร์ Wind Ghost 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62684] = {
+		Title = "Bounty Board Carat",
+		Description = {
+			"ล่ามอนสเตอร์ Carat 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62685] = {
+		Title = "Bounty Board Wanderer",
+		Description = {
+			"ล่ามอนสเตอร์ Wanderer 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62686] = {
+		Title = "Bounty Board Sting",
+		Description = {
+			"ล่ามอนสเตอร์ Sting 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62687] = {
+		Title = "Bounty Board Arclouse",
+		Description = {
+			"ล่ามอนสเตอร์ Arclouse 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62688] = {
+		Title = "Bounty Board Raydric",
+		Description = {
+			"ล่ามอนสเตอร์ Raydric 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62689] = {
+		Title = "Bounty Board Khalitzburg",
+		Description = {
+			"ล่ามอนสเตอร์ Khalitzburg 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62690] = {
+		Title = "Bounty Board Anolian",
+		Description = {
+			"ล่ามอนสเตอร์ Anolian 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62691] = {
+		Title = "Bounty Board False Angel",
+		Description = {
+			"ล่ามอนสเตอร์ False Angel 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62692] = {
+		Title = "Bounty Board Violy",
+		Description = {
+			"ล่ามอนสเตอร์ Violy 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62693] = {
+		Title = "Bounty Board Mini Demon",
+		Description = {
+			"ล่ามอนสเตอร์ Mini Demon 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62710] = {
+		Title = "Bounty Board Ground Deleter",
+		Description = {
+			"ล่ามอนสเตอร์ Ground Deleter 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62711] = {
+		Title = "Bounty Board Flying Deleter",
+		Description = {
+			"ล่ามอนสเตอร์ Flying Deleter 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62712] = {
+		Title = "Bounty Board Nightmare Terror",
+		Description = {
+			"ล่ามอนสเตอร์ Nightmare Terror 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62713] = {
+		Title = "Bounty Board Purple Venatu",
+		Description = {
+			"ล่ามอนสเตอร์ Purple Venatu 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62714] = {
+		Title = "Bounty Board Green Venatu",
+		Description = {
+			"ล่ามอนสเตอร์ Green Venatu 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62715] = {
+		Title = "Bounty Board Orange Venatu",
+		Description = {
+			"ล่ามอนสเตอร์ Orange Venatu 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62716] = {
+		Title = "Bounty Board Blue Venatu",
+		Description = {
+			"ล่ามอนสเตอร์ Blue Venatu 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62717] = {
+		Title = "Bounty Board Apocalypse",
+		Description = {
+			"ล่ามอนสเตอร์ Apocalypse 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Yuno"
+		},
+		Summary = ""
+	},
+	[62722] = {
+		Title = "Bounty Board Hornet",
+		Description = {
+			"ล่ามอนสเตอร์ Hornet 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62723] = {
+		Title = "Bounty Board Roda Frog",
+		Description = {
+			"ล่ามอนสเตอร์ Roda Frog 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62724] = {
+		Title = "Bounty Board Rocker",
+		Description = {
+			"ล่ามอนสเตอร์ Rocker 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62725] = {
+		Title = "Bounty Board Savage Babe",
+		Description = {
+			"ล่ามอนสเตอร์ Savage Babe 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62726] = {
+		Title = "Bounty Board Thief Bug Egg",
+		Description = {
+			"ล่ามอนสเตอร์ Thief Bug Egg 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62727] = {
+		Title = "Bounty Board Thief Bug",
+		Description = {
+			"ล่ามอนสเตอร์ Thief Bug 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62728] = {
+		Title = "Bounty Board Tarou",
+		Description = {
+			"ล่ามอนสเตอร์ Tarou 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62729] = {
+		Title = "Bounty Board Stainer",
+		Description = {
+			"ล่ามอนสเตอร์ Stainer 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62730] = {
+		Title = "Bounty Board Peco Peco",
+		Description = {
+			"ล่ามอนสเตอร์ Peco Peco 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62731] = {
+		Title = "Bounty Board Coco",
+		Description = {
+			"ล่ามอนสเตอร์ Coco 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62732] = {
+		Title = "Bounty Board Yoyo",
+		Description = {
+			"ล่ามอนสเตอร์ Yoyo 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62733] = {
+		Title = "Bounty Board Female Thief Bug",
+		Description = {
+			"ล่ามอนสเตอร์ Female Thief Bug 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62734] = {
+		Title = "Bounty Board Male Thief Bug",
+		Description = {
+			"ล่ามอนสเตอร์ Male Thief Bug 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62735] = {
+		Title = "Bounty Board Poporing",
+		Description = {
+			"ล่ามอนสเตอร์ Poporing 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62736] = {
+		Title = "Bounty Board Elder Willow",
+		Description = {
+			"ล่ามอนสเตอร์ Elder Willow 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62737] = {
+		Title = "Bounty Board Argos",
+		Description = {
+			"ล่ามอนสเตอร์ Argos 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62738] = {
+		Title = "Bounty Board Beetle King",
+		Description = {
+			"ล่ามอนสเตอร์ Beetle King 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62739] = {
+		Title = "Bounty Board Savage",
+		Description = {
+			"ล่ามอนสเตอร์ Savage 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62740] = {
+		Title = "Bounty Board Driller",
+		Description = {
+			"ล่ามอนสเตอร์ Driller 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62741] = {
+		Title = "Bounty Board Hunter Fly",
+		Description = {
+			"ล่ามอนสเตอร์ Hunter Fly 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62742] = {
+		Title = "Bounty Board Mantis",
+		Description = {
+			"ล่ามอนสเตอร์ Mantis 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62743] = {
+		Title = "Bounty Board Sidewinder",
+		Description = {
+			"ล่ามอนสเตอร์ Sidewinder 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62744] = {
+		Title = "Bounty Board Argiope",
+		Description = {
+			"ล่ามอนสเตอร์ Argiope 150 ตัวแล้วกลับไปที่ Bounty Board ใกล้กับ Prontera Center Fountain"
+		},
+		Summary = ""
+	},
+	[62745] = {
+		Title = "Bounty Board Metaling",
+		Description = {
+			"ล่ามอนสเตอร์ Metaling 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62746] = {
+		Title = "Bounty Board Rafflesia",
+		Description = {
+			"ล่ามอนสเตอร์ Rafflesia 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62747] = {
+		Title = "Bounty Board Stem Worm",
+		Description = {
+			"ล่ามอนสเตอร์ Stem Worm 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62748] = {
+		Title = "Bounty Board Breeze",
+		Description = {
+			"ล่ามอนสเตอร์ Breeze 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62749] = {
+		Title = "Bounty Board Anopheles",
+		Description = {
+			"ล่ามอนสเตอร์ Anopheles 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62750] = {
+		Title = "Bounty Board Axe Kobold",
+		Description = {
+			"ล่ามอนสเตอร์ Axe Kobold 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62751] = {
+		Title = "Bounty Board Hammer Kobold",
+		Description = {
+			"ล่ามอนสเตอร์ Hammer Kobold 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62752] = {
+		Title = "Bounty Board Mace Kobold",
+		Description = {
+			"ล่ามอนสเตอร์ Mace Kobold 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62753] = {
+		Title = "Bounty Board Kobold Archer",
+		Description = {
+			"ล่ามอนสเตอร์ Kobold Archer 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62754] = {
+		Title = "Bounty Board Remover",
+		Description = {
+			"ล่ามอนสเตอร์ Remover 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62755] = {
+		Title = "Bounty Board Laurell Weinder",
+		Description = {
+			"ล่ามอนสเตอร์ Laurell Weinder 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62756] = {
+		Title = "Bounty Board Errende Ebecee",
+		Description = {
+			"ล่ามอนสเตอร์ Errende Ebecee 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62757] = {
+		Title = "Bounty Board Armeyer Dinze",
+		Description = {
+			"ล่ามอนสเตอร์ Armeyer Dinze 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62758] = {
+		Title = "Bounty Board Wickbine Tres",
+		Description = {
+			"ล่ามอนสเตอร์ Wickbine Tres 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62759] = {
+		Title = "Bounty Board Kavach Icarus",
+		Description = {
+			"ล่ามอนสเตอร์ Kavach Icarus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62760] = {
+		Title = "Bounty Board Egnigem Cenia",
+		Description = {
+			"ล่ามอนสเตอร์ Egnigem Cenia 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62761] = {
+		Title = "Bounty Board Kathryne Keyron",
+		Description = {
+			"ล่ามอนสเตอร์ Kathryne Keyron 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62762] = {
+		Title = "Bounty Board Margaretha Sorin",
+		Description = {
+			"ล่ามอนสเตอร์ Margaretha Sorin 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62763] = {
+		Title = "Bounty Board Cecil Damon",
+		Description = {
+			"ล่ามอนสเตอร์ Cecil Damon 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62764] = {
+		Title = "Bounty Board Eremes Guile",
+		Description = {
+			"ล่ามอนสเตอร์ Eremes Guile 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62765] = {
+		Title = "Bounty Board Seyren Windsor",
+		Description = {
+			"ล่ามอนสเตอร์ Seyren Windsor 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62766] = {
+		Title = "Bounty Board Howard Alt-Eisen",
+		Description = {
+			"ล่ามอนสเตอร์ Howard Alt-Eisen 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62767] = {
+		Title = "Bounty Board Trentini",
+		Description = {
+			"ล่ามอนสเตอร์ Trentini 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62768] = {
+		Title = "Bounty Board Celia Alde",
+		Description = {
+			"ล่ามอนสเตอร์ Celia Alde 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62769] = {
+		Title = "Bounty Board Alphoccio",
+		Description = {
+			"ล่ามอนสเตอร์ Alphoccio 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62770] = {
+		Title = "Bounty Board Gertie",
+		Description = {
+			"ล่ามอนสเตอร์ Gertie 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62771] = {
+		Title = "Bounty Board Chen Lio",
+		Description = {
+			"ล่ามอนสเตอร์ Chen Lio 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62772] = {
+		Title = "Bounty Board Flamel Emure",
+		Description = {
+			"ล่ามอนสเตอร์ Flamel Emure 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62773] = {
+		Title = "Bounty Board Randel Lawrence",
+		Description = {
+			"ล่ามอนสเตอร์ Randel Lawrence 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Lighthalzen"
+		},
+		Summary = ""
+	},
+	[62789] = {
+		Title = "Bounty Board Red Novus",
+		Description = {
+			"ล่ามอนสเตอร์ Red Novus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62790] = {
+		Title = "Bounty Board Yellow Novus",
+		Description = {
+			"ล่ามอนสเตอร์ Yellow Novus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62791] = {
+		Title = "Bounty Board Ancient Mimic",
+		Description = {
+			"ล่ามอนสเตอร์ Ancient Mimic 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62792] = {
+		Title = "Bounty Board Death Word",
+		Description = {
+			"ล่ามอนสเตอร์ Death Word 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62793] = {
+		Title = "Bounty Board Ferus",
+		Description = {
+			"ล่ามอนสเตอร์ Ferus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62794] = {
+		Title = "Bounty Board Bewler",
+		Description = {
+			"ล่ามอนสเตอร์ Bewler 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62795] = {
+		Title = "Bounty Board Skogul",
+		Description = {
+			"ล่ามอนสเตอร์ Skogul 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62796] = {
+		Title = "Bounty Board Frus",
+		Description = {
+			"ล่ามอนสเตอร์ Frus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62797] = {
+		Title = "Bounty Board Horn",
+		Description = {
+			"ล่ามอนสเตอร์ Horn 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Payon"
+		},
+		Summary = ""
+	},
+	[62798] = {
+		Title = "Bounty Board Blue Acidus",
+		Description = {
+			"ล่ามอนสเตอร์ Blue Acidus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62799] = {
+		Title = "Bounty Board Gold Acidus",
+		Description = {
+			"ล่ามอนสเตอร์ Gold Acidus 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Hugel"
+		},
+		Summary = ""
+	},
+	[62802] = {
+		Title = "Bounty Board Antler-Horned Scaraba",
+		Description = {
+			"ล่ามอนสเตอร์ Antler-Horned Scaraba 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62803] = {
+		Title = "Bounty Board Horn Scaraba",
+		Description = {
+			"ล่ามอนสเตอร์ Horn Scaraba 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62804] = {
+		Title = "Bounty Board Rake-Horned Scaraba",
+		Description = {
+			"ล่ามอนสเตอร์ Rake-Horned Scaraba 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62805] = {
+		Title = "Bounty Board Uni-Horn Scaraba",
+		Description = {
+			"ล่ามอนสเตอร์ Uni-Horn Scaraba 150 ตัวแล้วกลับไปที่ Bounty Board ที่ El Dicastes"
+		},
+		Summary = ""
+	},
+	[62806] = {
+		Title = "Bounty Board Pinguicula",
+		Description = {
+			"ล่ามอนสเตอร์ Pinguicula 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62807] = {
+		Title = "Bounty Board Dark Pinguicula",
+		Description = {
+			"ล่ามอนสเตอร์ Dark Pinguicula 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62808] = {
+		Title = "Bounty Board Nepenthes",
+		Description = {
+			"ล่ามอนสเตอร์ Nepenthes 150 ตัวแล้วกลับไปที่ Bounty Board ที่  Rune-Midgarts Alliance Camp"
+		},
+		Summary = ""
+	},
+	[62809] = {
+		Title = "Bounty Board Flora",
+		Description = {
+			"ล่ามอนสเตอร์ Flora 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Comodo"
+		},
+		Summary = ""
+	},
+	[62810] = {
+		Title = "Bounty Board Coco",
+		Description = {
+			"ล่ามอนสเตอร์ Coco 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62811] = {
+		Title = "Bounty Board Smokie",
+		Description = {
+			"ล่ามอนสเตอร์ Smokie 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62812] = {
+		Title = "Bounty Board Martin",
+		Description = {
+			"ล่ามอนสเตอร์ Martin 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62813] = {
+		Title = "Bounty Board Elder Willow",
+		Description = {
+			"ล่ามอนสเตอร์ Elder Willow 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62814] = {
+		Title = "Bounty Board Soldier Skeleton",
+		Description = {
+			"ล่ามอนสเตอร์ Soldier Skeleton 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62815] = {
+		Title = "Bounty Board Majoruros",
+		Description = {
+			"ล่ามอนสเตอร์ Majoruros 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62816] = {
+		Title = "Bounty Board Lunatic",
+		Description = {
+			"ล่ามอนสเตอร์ Lunatic 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Prontera"
+		},
+		Summary = ""
+	},
+	[62817] = {
+		Title = "Bounty Board Ambernite",
+		Description = {
+			"ล่ามอนสเตอร์ Ambernite 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Prontera"
+		},
+		Summary = ""
+	},
+	[62818] = {
+		Title = "Bounty Board Muka",
+		Description = {
+			"ล่ามอนสเตอร์ Muka 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Prontera"
+		},
+		Summary = ""
+	},
+	[62819] = {
+		Title = "Bounty Board Magnolia",
+		Description = {
+			"ล่ามอนสเตอร์ Magnolia 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Prontera"
+		},
+		Summary = ""
+	},
+	[62820] = {
+		Title = "Bounty Board Skel Worker",
+		Description = {
+			"ล่ามอนสเตอร์ Skel Worker 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Geffen"
+		},
+		Summary = ""
+	},
+	[62821] = {
+		Title = "Bounty Board Miming",
+		Description = {
+			"ล่ามอนสเตอร์ Miming 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62822] = {
+		Title = "Bounty Board Little Fatum",
+		Description = {
+			"ล่ามอนสเตอร์ Little Fatum 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62823] = {
+		Title = "Bounty Board Cenere",
+		Description = {
+			"ล่ามอนสเตอร์ Cenere 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62824] = {
+		Title = "Bounty Board Menblatt",
+		Description = {
+			"ล่ามอนสเตอร์ Menblatt 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62825] = {
+		Title = "Bounty Board Petal",
+		Description = {
+			"ล่ามอนสเตอร์ Petal 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62826] = {
+		Title = "Bounty Board Angra Mantis",
+		Description = {
+			"ล่ามอนสเตอร์ Angra Mantis 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62827] = {
+		Title = "Bounty Board Antique Book",
+		Description = {
+			"ล่ามอนสเตอร์ Antique Book 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62828] = {
+		Title = "Bounty Board Yellow Lichtern",
+		Description = {
+			"ล่ามอนสเตอร์ Yellow Lichtern 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62829] = {
+		Title = "Bounty Board Blue Lichtern",
+		Description = {
+			"ล่ามอนสเตอร์ Blue Lichtern 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62830] = {
+		Title = "Bounty Board Red Lichtern",
+		Description = {
+			"ล่ามอนสเตอร์ Red Lichtern 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62831] = {
+		Title = "Bounty Board Green Lichtern",
+		Description = {
+			"ล่ามอนสเตอร์ Green Lichtern 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Mora"
+		},
+		Summary = ""
+	},
+	[62890] = {
+		Title = "Bounty Board Cursed Box",
+		Description = {
+			"ล่ามอนสเตอร์ Cursed Box 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Aldebaran"
+		},
+		Summary = ""
+	},
+	[62891] = {
+		Title = "Bounty Board Cursed Book",
+		Description = {
+			"ล่ามอนสเตอร์ Cursed Book 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Aldebaran"
+		},
+		Summary = ""
+	},
+	[62892] = {
+		Title = "Bounty Board Big Bell",
+		Description = {
+			"ล่ามอนสเตอร์ Big Bell 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Aldebaran"
+		},
+		Summary = ""
+	},
+	[62893] = {
+		Title = "Bounty Board Big Ben",
+		Description = {
+			"ล่ามอนสเตอร์ Big Ben 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Aldebaran"
+		},
+		Summary = ""
+	},
+	[62894] = {
+		Title = "Bounty Board Neo Punk",
+		Description = {
+			"ล่ามอนสเตอร์ Neo Punk 150 ตัวแล้วกลับไปที่ Bounty Board ที่ Aldebaran"
+		},
+		Summary = ""
+	}
+}
